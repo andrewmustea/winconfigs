@@ -1,0 +1,4 @@
+Host *
+    ForwardX11Trusted yes
+    ForwardX11 yes
+    XAuthLocation 'C:\Program Files\VcXsrv\xauth.exe'
